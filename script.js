@@ -1,7 +1,10 @@
 let map = document.querySelector("#map");
 
 let files = [
-""
+"08092022.gpx",
+"11092022.gpx",
+"12092022.gpx",
+"13092022.gpx"
 ];
 
 function tostr(x){
